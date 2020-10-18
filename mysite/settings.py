@@ -25,7 +25,7 @@ SECRET_KEY = 'v)j@lc=lw*+tt0mt8rvti&#j5)a2#^=%jazrx-5i4fm1f0l7kz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'emeraudej.pythonanywhere.com']
 
 
 # Application definition
